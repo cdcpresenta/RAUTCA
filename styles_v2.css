@@ -212,9 +212,9 @@ body {
 /* Botón de cierre */
 .close {
     position: absolute;
-    top: 30px;
-    right: 30px;
-    font-size: 5.0rem !important;
+    top: 10px;
+    right: 10px;
+    font-size: 3.0rem !important;
     color: #0400ff;
     cursor: pointer;
 }
