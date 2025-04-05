@@ -212,15 +212,15 @@ body {
 /* Botón de cierre */
 .close {
     position: absolute;
-    top: 20px;
-    right: 20px;
-    font-size: 4.0rem;
+    top: 30px;
+    right: 30px;
+    font-size: 5.0rem;
     color: #0400ff;
     cursor: pointer;
 }
 
 .close:hover {
-    color: #555;
+    color: #0400ff;
 }
 
 /* Botón flotante */
